@@ -1,4 +1,4 @@
-package com.zebi.zoneddatetime;
+package com.zebi.sorting_algos;
 
 public class Main {
 
